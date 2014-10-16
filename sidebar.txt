@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[can:home|Door43 (can)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-can|d43-can repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-can/archive/master.zip|d43-can.zip]]
+
+**Recent Changes**
+{{changes>ns = can}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/can|Ethnologue data]]
+
